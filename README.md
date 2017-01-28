@@ -2,10 +2,8 @@
 This page is a collective of the 2017 GWC class.
 
 ##projects
-1. link
-2. link
 
-<a href="http://www.w3schools.com/html/">1. link</a> 
+<a href="http://www.w3schools.com/html/">1. link</a> </br>
 <a href="https://cherylkay.github.io/Test/">2. link</a> 
 
 
