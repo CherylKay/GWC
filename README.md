@@ -1,8 +1,8 @@
-<h1>Welcome to Girls Who Code Hortonville</h1>
-<p>Depression is a real problem that many people have to deal with. Our group chose to address this social issue and this page is a collective of the 2017 GWC class projects.</p>
+##Welcome to Girls Who Code Hortonville
+Depression is a real problem that many people have to deal with. Our group chose to address this social issue and this page is a collective of the 2017 GWC class projects.
 
-<h3>projects<h3>
-<a href="http://www.w3schools.com/html/">1. link</a> </br>
+#projects
+<a href="http://www.w3schools.com/html/">1. link</a> <br>
 <a href="https://cherylkay.github.io/Test/">2. link</a> 
 
 
