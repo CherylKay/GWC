@@ -2,8 +2,8 @@
 Depression is a real problem that many people have to deal with. Our group chose to address this social issue and this page is a collective of the 2017 GWC class projects.
 
 ## projects
-1. <a href="http://www.w3schools.com/html/">link</a> <br>
-2. <a href="https://cherylkay.github.io/Test/">link</a> 
+1. [Link](http://www.w3schools.com)
+2. [Link](cherylkay.github.io/Test/)
 
 
 
