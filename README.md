@@ -1,5 +1,19 @@
 # Welcome to Girls Who Code Oshkosh
 Depression is a real problem that many people have to deal with. Our group chose to address this social issue and this page is a collective of the 2017 GWC class projects.
+Girls Who Code is a nonprofit organization which aims to support and increase the number of women in computer science. The organization, founded by Reshma Saujani in 2012, goal is to close the gender gap in technology and change the image of what a programmer looks like and does.
+
+​
+
+Girls Who Code Clubs are a Sisterhood which provides community and support for girls to explore computer science in a fun and friendly environment. Beyond the classroom, Clubs members can tap into an alumni network of tens of thousands of girls across the country that is using computer science to make a difference.
+
+​
+
+At the core of the Girls Who Code Club is the CS Impact Project, where the girls learn to use computer science to solve the problem relevant to their school or community. Through this CS Impact project, girls expand their problem solving and computational thinking skills. They leave the Club with an appreciation for how they can use this way of thinking to impact their everyday lives.
+
+​
+
+Through Activity Sets and working on their CS Impact Project the girls will learn the Core4 computer science concepts that form the basis for all computer programming languages. The Core4 concepts are loops, variables, conditionals and functions, all of which are fundamental to building a mobile application, website, or programming a robot.
+
 
 ## projects
 1. [W3C](http://www.w3schools.com)
