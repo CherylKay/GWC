@@ -1,5 +1,5 @@
 # Welcome to Girls Who Code Oshkosh
-Depression is a real problem that many people have to deal with. Our group chose to address this social issue and this page is a collective of the 2017 GWC class projects.
+
 Girls Who Code is a nonprofit organization which aims to support and increase the number of women in computer science. The organization, founded by Reshma Saujani in 2012, goal is to close the gender gap in technology and change the image of what a programmer looks like and does.
 
 ​
