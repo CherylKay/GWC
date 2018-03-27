@@ -1,2 +1,3 @@
-<iframe src="https://scratch.mit.edu/projects/128266325/#editor">
+<iframe src="https://scratch.mit.edu/projects/128266325/#editor" title="iframe example 1" width="400" height="300">
+  <p>Your browser does not support iframes.</p>
 </iframe>
